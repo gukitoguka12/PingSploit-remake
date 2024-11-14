@@ -5,9 +5,15 @@ this is for education purposes anyways this might have some attacks because it h
 
 <git clone https://github.com/gukitoguka12/PingSploit-remake.git>
 
+
+
+
 <cd PingSploit-remake>
 
 <bash install.sh>
+
+
+
 
 # commands
 
