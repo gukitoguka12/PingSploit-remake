@@ -3,21 +3,20 @@ this is for education purposes anyways this might have some attacks because it h
 
 
 
-<git clone https://github.com/gukitoguka12/PingSploit-remake.git>
+git clone https://github.com/gukitoguka12/PingSploit-remake.git
 
 
 
 
-<cd PingSploit-remake>
-
-<bash install.sh>
+cd PingSploit-remake
+    
+    bash install.sh
 
 
 
 
 # commands
 
-<PingSploit (ip or domain)>
 
 
     -t             Ping the specified host until stopped.
@@ -48,3 +47,9 @@ this is for education purposes anyways this might have some attacks because it h
     --spoof    Uses spoofed scan
     --flood    floods servers
     --help      displays commands
+
+
+
+# menu
+
+bash Menu_PingSploit.py
