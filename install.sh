@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Constants
-SCRIPT_URL="https://your-script-url-here.com/pingsploit.py"  # Replace with your actual script URL
+SCRIPT_URL="https://github.com/gukitoguka12/PingSploit-remake.git"  # Replace with your actual script URL
 INSTALL_DIR="/usr/local/bin"
 SCRIPT_NAME="pingsploit"
 
